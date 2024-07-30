@@ -53,13 +53,14 @@ public class classes {
     }
 
     public String details() {
-        return ("student name is " + this.getname() + " " + "student age is " + this.getage() + "student address:"
+        return ("student name is " + this.getname() + " " + "student age is " + " " + this.getage() + "  "
+                + "student address:"
                 + getaddress());
     }
 
     public static void main(String[] args) {
         // Creating a student object
-        classes shyam = new classes("Shyam", 21, "No.2 Sathya Murthi Street");
+        classes shyam = new classes("Shyam , ", 21, "No.2 Sathya Murthi Street");
         // Printing student details
         System.out.println(shyam.details());
     }
