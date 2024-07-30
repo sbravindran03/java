@@ -24,8 +24,8 @@ public class classes {
 
     // then we have to start with set and get method
     // set should be first
-    public void setaname(String name) {
-        this.name = name;
+    public void setaname(String name) { // setname - is a modify name
+        this.name = name;// this keyword means current object
     }
 
     public void setage(int age) {
@@ -53,7 +53,7 @@ public class classes {
     }
 
     public String details() {
-        return ("student name is " + this.getname() + "student age is " + this.getage() + "student address:"
+        return ("student name is " + this.getname() + " " + "student age is " + this.getage() + "student address:"
                 + getaddress());
     }
 
