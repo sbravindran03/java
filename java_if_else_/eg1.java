@@ -29,3 +29,7 @@ public class eg1 {
         spy.close();
     }
 }
+/*
+ * n variable getting input
+ * n%10
+ */
