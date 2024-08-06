@@ -27,7 +27,7 @@ public class secondlargest {
                 largest = a[i];
             }
         }
-        // loop for finding the second largest element in the array
+        // loop for finding the second largest element in the array :
         for (int i = 0; i < a.length; i++) {
             if (a[i] != largest && a[i] > secondlargest) {
                 secondlargest = a[i];
