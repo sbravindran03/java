@@ -31,7 +31,7 @@ public class mergearray {
                 result[o] = b[n++];
 
         }
-        System.out.println("a = " + Arrays.toString(a) + "b = " + Arrays.toString(b));
+        System.out.println("a = " + Arrays.toString(a) + "b = " + Arrays.toString(b));// Array
         System.out.println(Arrays.toString(result));
 
     }
