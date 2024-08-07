@@ -21,7 +21,6 @@ public class repeating_num {
                 System.out.println(j + "");
                 i--;
             }
-            // loop
 
         }
     }
