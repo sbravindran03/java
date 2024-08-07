@@ -17,7 +17,7 @@ public class sorting0_1_2 {
             }
 
         }
-        int num = 0;
+        int num = 0;// it acts a storing variable
         for (int i = 0; i < c0; i++) {
             a[num++] = 0;
 
