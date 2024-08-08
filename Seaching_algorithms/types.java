@@ -1,6 +1,10 @@
 package Seaching_algorithms;
 //LINEAR SEARCH
 
+/*what is key element ?
+ * the element entered by the user which is searched in the given array is called key element
+ *  
+ */
 //BINARY SEARCH
 //DFS AND BFS
 //JUMP SEARCH
