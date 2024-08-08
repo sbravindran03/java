@@ -1,4 +1,4 @@
-package Seaching_algorithms;
+package Searching_algorithms;
 
 import java.util.Arrays;
 import java.util.Scanner;
