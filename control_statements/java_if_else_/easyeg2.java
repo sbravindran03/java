@@ -1,4 +1,4 @@
-package java_if_else_;
+package control_statements.java_if_else_;
 
 public class easyeg2 {
     public static void main(String[] args) {
