@@ -7,6 +7,16 @@ public class bank {
     static Scanner bankindustry = new Scanner(System.in);
 
     public static int login() {
+        System.out.println("enter your name");
+        String name = bankindustry.next();
+        if (name.equals("ravindranSB")) {
+            System.out.println("next.....");
+        } else {
+            System.out.println("invalid name");
+            name = bankindustry.next();
+
+        }
+
         System.out.println("enter the account number ");
         int number = bankindustry.nextInt();
         System.out.println("enter the pin");
@@ -14,7 +24,8 @@ public class bank {
         if (pin == 223 && number == 123) {
             System.out.println("succesful login");
         } else {
-            System.out.println("invalid pin");
+            System.out.println("invalid pin , enter your proper details once again");
+            return login();
 
         }
         System.out.println("enter the deposit amount");
@@ -42,7 +53,7 @@ public class bank {
             System.out.println("thanks for visting RSV BANK");
 
         }
-        System.out.println("");
+        System.out.println("your ");
 
         return availablebalance;
     }
