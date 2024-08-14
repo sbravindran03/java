@@ -53,7 +53,8 @@ public class bank {
             System.out.println("thanks for visting RSV BANK");
 
         }
-        System.out.println("your ");
+        System.out.println("your details: balance :[" + availablebalance + "]  name: [" + name + "]  account_number: ["
+                + number + "]");
 
         return availablebalance;
     }
