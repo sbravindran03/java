@@ -19,6 +19,7 @@ public class duplicateeg3 {
 
             }
             if (!isDuplicate) {
+
                 removedup[j++] = a[i];// j++ for iterrating the array
             }
 
