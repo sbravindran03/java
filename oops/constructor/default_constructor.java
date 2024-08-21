@@ -1,6 +1,7 @@
 package oops.constructor;
 
 public class default_constructor {
+
     int id;
     int name;
     int num;

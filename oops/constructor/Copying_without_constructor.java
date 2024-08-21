@@ -1,6 +1,7 @@
 package oops.constructor;
 
 public class Copying_without_constructor {
+
     int id;
     int number;
     String name;

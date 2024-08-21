@@ -4,6 +4,7 @@ package oops.object_and_classes;
 //where we deposit and withdraw amount from our account.  
 //Creating an Account class which has deposit() and withdraw() methods */
 public class mutilple_object {
+
     int account;
     float amount;
     String name;

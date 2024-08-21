@@ -1,6 +1,7 @@
 package oops.object_and_classes;
 
 public class eg3 {
+
     // 3) Object and Class Example: Initialization through a constructor
     int age;
     String name;

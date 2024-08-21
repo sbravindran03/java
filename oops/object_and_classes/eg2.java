@@ -2,6 +2,7 @@ package oops.object_and_classes;
 
 // 2) by method
 public class eg2 {
+
     int rollno;
     String name;
 
@@ -17,7 +18,9 @@ public class eg2 {
 
     void display() {
         System.out.println(rollno + "" + name);
-    };
+    }
+
+    ;
 
     public static void main(String[] args) {
         eg2 s1 = new eg2();

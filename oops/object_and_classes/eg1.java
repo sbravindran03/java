@@ -10,6 +10,7 @@ By method
 By constructor */
 //1) by reference variable
 public class eg1 {
+
     static Scanner students = new Scanner(System.in);
 
     int id = students.nextInt();
@@ -19,6 +20,7 @@ public class eg1 {
 }
 
 class teststudent {
+
     public static void main(String[] args) {
         System.out.println("enter the student id");
 

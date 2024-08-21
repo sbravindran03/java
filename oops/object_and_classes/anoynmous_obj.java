@@ -1,6 +1,7 @@
 package oops.object_and_classes;
 
 public class anoynmous_obj {
+
     // /*
     // * What are the different ways to create an object in Java?
     // * There are many ways to create an object in java. They are:
@@ -46,7 +47,6 @@ public class anoynmous_obj {
 // }
 // System.out.println("factorial is " + fact);
 // }
-
 // public static void main(String args[]) {
 // new anoynmous_obj().fact(5);// calling method with anonymous object
 // }
