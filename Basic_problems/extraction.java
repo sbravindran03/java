@@ -1,4 +1,4 @@
-package Basicproblems;
+package Basic_problems;
 
 public class extraction {
     public static void main(String[] args) {

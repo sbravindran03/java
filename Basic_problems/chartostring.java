@@ -1,4 +1,4 @@
-package Basicproblems;
+package Basic_problems;
 
 public class chartostring {
     public static void main(String[] args) {

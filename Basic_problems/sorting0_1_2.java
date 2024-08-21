@@ -1,4 +1,4 @@
-package Basicproblems;
+package Basic_problems;
 
 public class sorting0_1_2 {
     // sort the array numbers 0's 1's 2's

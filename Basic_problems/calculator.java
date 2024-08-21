@@ -1,4 +1,4 @@
-package Basicproblems;
+package Basic_problems;
 
 import java.util.*;
 
