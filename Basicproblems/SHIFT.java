@@ -1,4 +1,4 @@
-package Basic_problems;
+package Basicproblems;
 
 import java.util.*;
 // write a java prgroam to shift elements to right to left or left to right 

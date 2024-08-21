@@ -1,4 +1,4 @@
-package Basic_problems;
+package Basicproblems;
 
 public class mathpow {
 
