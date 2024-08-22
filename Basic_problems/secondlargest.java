@@ -3,6 +3,7 @@ package Basic_problems;
 import java.util.Scanner;
 
 public class secondlargest {
+
     public static void main(String[] args) {
         Scanner secarr = new Scanner(System.in);
         System.out.println("enter the size of the array");
@@ -13,10 +14,6 @@ public class secondlargest {
             System.out.println("enter the elements of a[" + i + "]");
             a[i] = secarr.nextInt();
 
-            if (size < 2) {
-                System.out.println("Array size should be at least 2 to find the second largest element.");
-                return;
-            }
         }
         int largest = Integer.MIN_VALUE;
         int secondlargest = Integer.MIN_VALUE;
