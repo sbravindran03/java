@@ -29,7 +29,6 @@ public class heirachical {
 
         v.catvoice();
         b.dogvoice();
-        v.voice();
 
     }
 
