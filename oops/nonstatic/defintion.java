@@ -55,4 +55,9 @@ public class defintion {
 
     {
     }//---multiline non static inilizer or  anonymous block
+
+    public static void main(String[] args) {
+        //static context or local area
+        System.out.println("hi bro");
+    }
 }
