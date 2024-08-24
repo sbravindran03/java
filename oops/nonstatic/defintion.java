@@ -36,8 +36,15 @@ public class defintion {
     int b;--non static variable declaration statement;
      * what is multi line non static initilizer?
      * a block which is block not prefix with anything is called as multiline initilizer
+     * the varibales which is declared or declared and initilized inside anoymous block is local variable
+     * 
+     * 
+     * 3211223
+     * 21
      */
     {
+        int b = 2;//a area present int the anoymous block is called as nonstaic context , or they having local area nature
+
     }//---multiline non static inilizer or  anonymous block
 
     {
