@@ -13,7 +13,7 @@ public class jdk {
      * step 2-> all the methods are multiline initlinzers (both static and non static) will be loaded the inside the method area
      * step3 ->in table will be created inside the class block 
      * step 4->all the static members present in the method area will be loaded inside the table 
-     * 
+     * step5 -> all the static varaibeles present inside the class will be loaded with default values inside the class block
      * 
      * 
      */
