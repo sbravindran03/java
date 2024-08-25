@@ -10,17 +10,17 @@ public class primenumbers {
         int n = prime.nextInt();
 
         int i = 2;
-
         if (n == 0 || i == 0) {
-            System.out.println("it is not a prime number");
-
+            System.out.println("its not a prime number");
         } else if (n == i) {
-            System.out.println("it is a prime number");
-
+            System.out.println("prime number");
         } else if (n % i == 0) {
-            System.out.println("it is not a prime number");
+            System.out.println("not a prime number");
+            i++;
         } else {
-            System.out.println("it is a prime number");
+            System.out.println("prime numbers");
         }
+
     }
+
 }
