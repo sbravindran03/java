@@ -3,6 +3,7 @@ package METHODS;
 import java.util.Scanner;
 
 public class eg1fordynamicread {
+
     // write a java program to print employee details with intruppted exception (its
     // delays execution time of the output)
     public static void main(String[] args) throws InterruptedException {
