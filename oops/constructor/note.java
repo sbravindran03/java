@@ -21,3 +21,4 @@ public class note {
     }
 
 }
+/*inside static block we should access non static resource only with th help of object refrence . */

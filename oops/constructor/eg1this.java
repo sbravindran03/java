@@ -19,11 +19,11 @@ public class eg1this {
     }
 
     void display() {
-        System.out.println(rollno + " " + name + " " + course + " " + fee);
+        System.out.println(rollno + " " + name + " " + course + " " + fee + " " + course);
     }
 
     public static void main(String[] args) {
-        eg1this s1 = new eg1this(1, "ravi", 10000);
+        eg1this s1 = new eg1this("cse", 1, "ravi", 22333);
         eg1this s2 = new eg1this(2, "shyam", 10000);
         s1.display();
         s2.display();
