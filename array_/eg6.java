@@ -3,6 +3,7 @@ package array_;
 import java.util.Scanner;
 
 public class eg6 {
+
     // array for inserting the elememt
     public static void main(String[] args) {
         System.out.println("enter the size of the array");
@@ -16,7 +17,7 @@ public class eg6 {
 
         }
         // for printing the elements in the array
-        for (int i = 0; i < a.length; i++) {
+        for (int i = a.length - 1; i > 0; i--) {
             System.out.println(a[i] + "");
         }
 

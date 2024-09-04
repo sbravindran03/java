@@ -3,6 +3,7 @@ package Basic_problems;
 import java.util.*;
 
 public class calculator {
+
     public static void main(String[] args) {
         System.out.println("enter the arithmatic operation");
         Scanner calcu = new Scanner(System.in);

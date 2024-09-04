@@ -7,8 +7,8 @@ import java.util.Scanner;
  * 63740 -duck number
  * 456787654- not a duck number
  */
-
 public class eg4 {
+
     public static void main(String[] args) {
         Scanner duck = new Scanner(System.in);
         System.out.println("enter a number :");
