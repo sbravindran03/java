@@ -18,6 +18,12 @@ public class jdk {
      * step 6-> all the static initilizers both single line and multline exceute from top -bottom approach
      * step 7-> once all the static initlizers execution completed jvm will calll main method and excution execution ends at main method
      * 
+     *
+     * 
+     *
+     * 
+     * 
+     * 
      */
     static int a = 10;
     int b = 10;

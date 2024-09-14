@@ -5,12 +5,33 @@ package oops.constructor.thiss;
 
 public class e1 {
 
-    String bikename;
-    int bikenum;
-    float bikeprice;
-
     public e1() {
+        //whenever a class is exceeding another class or inheriting another class 
+        //super call stmt is added inside a child class constructor by a compiler
+        class A {
+
+            int x = 10;
+
+            A() {
+                System.out.println("hi bro");
+            }
+
+        }
+        class B extends A {
+
+            int y = 20;
+
+            public B() {
+                super();
+                System.out.println("hi ");
+            }
+
+        }
 
     }
 
 }
+//whenver this call is added this call is removed 
+//super class stmt is also helps to load parent class non static members into the child class object
+//super class stmt also help to pass the data member for the initialization of parent class
+//difference between this call stmt and super call stmt 
