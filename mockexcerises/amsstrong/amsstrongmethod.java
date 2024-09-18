@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.amsstrong;
 
 import java.util.Scanner;
 

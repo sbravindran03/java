@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.pallindrome;
 
 public class pallindrome {
 

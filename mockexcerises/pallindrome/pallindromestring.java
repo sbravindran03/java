@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.pallindrome;
 
 import java.util.Scanner;
 

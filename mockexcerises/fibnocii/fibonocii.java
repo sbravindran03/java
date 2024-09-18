@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.fibnocii;
 // 1) Write a Java program for generating the nth Fibonacci Number using loop and O(1) space.
 
 import java.util.Scanner;

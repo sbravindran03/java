@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.reverse;
 
 import java.util.Scanner;
 

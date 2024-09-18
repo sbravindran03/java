@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.reverse.countnumbers;
 
 import java.util.Scanner;
 

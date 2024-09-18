@@ -1,5 +1,5 @@
 // 3) Calculate how many times a digit D occurs in the number N. One has to ask the user to give the values of N and D.
-package mockexcerises;
+package mockexcerises.reverse.countnumbers;
 
 import java.util.*;
 

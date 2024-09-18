@@ -1,4 +1,4 @@
-package mockexcerises;
+package mockexcerises.reverse;
 
 public class reversenum {
 
