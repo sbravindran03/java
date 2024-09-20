@@ -16,9 +16,9 @@ public class fibnocii_usingmethod {
     public static void main(String[] args) {
         int count = 10;
 
-        System.out.println(n1 + " " + n2);
-        for (int i = 2; i <= count; i++) {
-            System.out.println(" " + fibnocii());
+        System.out.print(n1 + " " + n2);
+        for (int i = 3; i <= count; i++) {
+            System.out.print(" " + fibnocii());
 
         }
 
