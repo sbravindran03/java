@@ -6,6 +6,7 @@ import java.util.*;
 public class frequency {
 
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("enter size of the array");
         int size = sc.nextInt();
@@ -26,17 +27,18 @@ public class frequency {
                 }
 
             }
-            if (a[i] != visited) {
+            if (frequency[i] != visited) {
                 frequency[i] = count;
             }
 
         }
         System.out.println("elements ");
         for (int i = 0; i < size; i++) {
-            if (a[i] != visited) {
+            if (frequency[i] != visited) {
                 System.out.println(a[i] + "   frequncy is  " + frequency[i]);
             }
-        }
 
+        }
+        sc.close();
     }
 }
