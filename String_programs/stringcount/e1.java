@@ -1,9 +1,9 @@
-package String_programs;
+package String_programs.stringcount;
 // Java Program to count the total number of characters in a string
 
 import java.util.Scanner;
 
-public class count {
+public class e1 {
 
     public static int counter(String n) {
         int count = 0;

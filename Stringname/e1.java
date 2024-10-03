@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class e1 {
 
-    public static String Stringn(String str) {
+    public static String
+            n(String str) {
         // String str = Integer.toString(n);
         String result = " ";
         for (int i = 0; i < str.length(); i++) {
@@ -24,7 +25,7 @@ public class e1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a string");
         String n = sc.next();
-        System.out.println(Stringn(n));
+        System.out.println(n(n));
 
     }
 

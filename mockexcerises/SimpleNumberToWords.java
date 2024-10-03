@@ -31,5 +31,6 @@ public class SimpleNumberToWords {
         System.out.println("enter a number ");
         int num = sc.nextInt();
         System.out.println("in words " + covertString(num));
+
     }
 }
